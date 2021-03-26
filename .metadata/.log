@@ -1,0 +1,720 @@
+!SESSION 2021-03-26 09:57:25.728 -----------------------------------------------
+eclipse.buildId=4.9.0.202012132054
+java.version=15.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+This is a continuation of log file C:\Users\maxim\OneDrive\Desktop\development\REST_API4PhotoApp\.metadata\.bak_0.log
+Created Time: 2021-03-26 18:37:40.376
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:40.396
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:40.568
+!MESSAGE buffering callback sts4.classpath.WncjPkJe mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:40.683
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:41.068
+!MESSAGE buffering callback sts4.classpath.FMtlukRn mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:41.112
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:41.412
+!MESSAGE buffering callback sts4.classpath.VywoweLi mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:41.649
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:41.820
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:41.986
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:42.349
+!MESSAGE buffering callback sts4.classpath.qIHCZoqF mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:42.462
+!MESSAGE buffering callback sts4.classpath.lnDDcBFY mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:42.494
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:42.532
+!MESSAGE buffering callback sts4.classpath.ozuSCted mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:42.721
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:42.749
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:42.819
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:42.851
+!MESSAGE buffering callback sts4.classpath.YStczoSY mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:43.013
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:43.037
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:43.082
+!MESSAGE buffering callback sts4.classpath.dQoBcPBn mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:43.217
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:43.289
+!MESSAGE buffering callback sts4.classpath.CqwXuuXI mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:43.380
+!MESSAGE buffering callback sts4.classpath.MVSFYTuX mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:43.608
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:43.624
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:43.919
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:43.956
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:44.017
+!MESSAGE buffering callback sts4.classpath.qQtTaSvh mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:44.034
+!MESSAGE buffering callback sts4.classpath.FzXdUhji mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:44.046
+!MESSAGE buffering callback sts4.classpath.aBXOnDaB mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:44.070
+!MESSAGE buffering callback sts4.classpath.yDPHuDEF mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:44.086
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:44.101
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:44.114
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:44.126
+!MESSAGE buffering callback sts4.classpath.CADpOrzc mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:44.137
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:44.150
+!MESSAGE buffering callback sts4.classpath.iREMfhju mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:44.165
+!MESSAGE buffering callback sts4.classpath.fyeXXAvU mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:44.177
+!MESSAGE buffering callback sts4.classpath.hjFzTJQB mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:44.188
+!MESSAGE buffering callback sts4.classpath.DLIGgZhu mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:44.200
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:44.211
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:44.223
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:44.236
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:44.252
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:44.264
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:44.276
+!MESSAGE buffering callback sts4.classpath.TufcnxFb mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:44.289
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:44.302
+!MESSAGE buffering callback sts4.classpath.XTgUfnsk mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:44.315
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:44.327
+!MESSAGE buffering callback sts4.classpath.YFpiefxL mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:44.370
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:44.385
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:44.399
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:44.499
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:44.520
+!MESSAGE buffering callback sts4.classpath.tytovDDO mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:44.533
+!MESSAGE buffering callback sts4.classpath.pdraMaax mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:44.546
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:44.558
+!MESSAGE buffering callback sts4.classpath.KHVKIPBC mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:44.573
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:44.587
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:44.602
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:44.614
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:44.626
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:44.638
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:44.650
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:44.663
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:44.679
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:44.690
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:44.703
+!MESSAGE buffering callback sts4.classpath.BQmnRVPG mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:44.715
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:44.752
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:44.775
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:44.795
+!MESSAGE buffering callback sts4.classpath.rlxHrXaX mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:44.840
+!MESSAGE buffering callback sts4.classpath.FOLgCLVH mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:44.874
+!MESSAGE buffering callback sts4.classpath.nxgPSNOB mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:44.891
+!MESSAGE buffering callback sts4.classpath.gNnnLGbk mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:44.919
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:44.932
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:44.944
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:44.957
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:44.970
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:45.005
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:45.017
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:45.031
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:45.043
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:45.058
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:45.072
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:45.084
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:45.096
+!MESSAGE buffering callback sts4.classpath.pxJSTnfp mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:45.108
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:45.121
+!MESSAGE buffering callback sts4.classpath.znMvmhUv mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:45.133
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:45.145
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:45.157
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:45.171
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:45.184
+!MESSAGE buffering callback sts4.classpath.iAeNczwR mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:45.197
+!MESSAGE buffering callback sts4.classpath.LLIqAFHe mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:45.210
+!MESSAGE buffering callback sts4.classpath.ztRyHlxL mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:45.223
+!MESSAGE buffering callback sts4.classpath.AqXTJqhC mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:45.236
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:45.248
+!MESSAGE buffering callback sts4.classpath.aiAnvYrK mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:45.260
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:45.273
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:45.286
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:45.353
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:45.372
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:45.434
+!MESSAGE buffering callback sts4.classpath.opIhezCw mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:45.481
+!MESSAGE buffering callback sts4.classpath.xzgUqXLT mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:45.510
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:45.534
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:45.559
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:45.583
+!MESSAGE buffering callback sts4.classpath.ZUNYMgvF mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:45.607
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:45.632
+!MESSAGE buffering callback sts4.classpath.AIQAzVfd mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:45.651
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:45.666
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:45.677
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:45.690
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:45.725
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:45.738
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:45.752
+!MESSAGE buffering callback sts4.classpath.ZnApkDQY mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:45.764
+!MESSAGE buffering callback sts4.classpath.jpTvLkFy mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:45.798
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:45.812
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:45.825
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:45.856
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:45.899
+!MESSAGE buffering callback sts4.classpath.gFnCAtQG mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:45.911
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:45.924
+!MESSAGE buffering callback sts4.classpath.HCDypLYb mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:45.943
+!MESSAGE buffering callback sts4.classpath.MtmCiobI mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:45.956
+!MESSAGE buffering callback sts4.classpath.CVFsbwHt mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:45.970
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:45.984
+!MESSAGE buffering callback sts4.classpath.QtlWiONt mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:46.001
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:46.014
+!MESSAGE buffering callback sts4.classpath.jyoQqQIu mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:46.026
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:46.039
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:46.060
+!MESSAGE buffering callback sts4.classpath.RTtgAhSp mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:46.073
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:46.089
+!MESSAGE buffering callback sts4.classpath.hEEhLKVs mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:46.107
+!MESSAGE buffering callback sts4.classpath.EzJfZSgK mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:46.119
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:46.131
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:46.157
+!MESSAGE buffering callback sts4.classpath.jGtFoeqz mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:46.169
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:46.181
+!MESSAGE buffering callback sts4.classpath.eamYUHSe mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:46.193
+!MESSAGE buffering callback sts4.classpath.jhQSeSaz mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:46.205
+!MESSAGE buffering callback sts4.classpath.gpUCoNyv mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:46.218
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:46.250
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:46.266
+!MESSAGE buffering callback sts4.classpath.KUtuHonr mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:46.303
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:46.329
+!MESSAGE buffering callback sts4.classpath.bCinowhm mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:46.369
+!MESSAGE buffering callback sts4.classpath.IBWOsBSa mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:46.384
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:46.482
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:46.535
+!MESSAGE buffering callback sts4.classpath.Xtujqjtw mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:46.548
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:46.560
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:46.580
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:46.648
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:46.660
+!MESSAGE buffering callback sts4.classpath.PiPntxgc mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:46.673
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:46.685
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:46.698
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:46.717
+!MESSAGE buffering callback sts4.classpath.KnPMkgGO mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:46.736
+!MESSAGE buffering callback sts4.classpath.hFoqDJZi mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:46.749
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:46.768
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:46.782
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:46.794
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:46.807
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:46.820
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:46.833
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:46.846
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:46.859
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:46.875
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:46.917
+!MESSAGE buffering callback sts4.classpath.fOtOnyRi mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:46.930
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:46.942
+!MESSAGE buffering callback sts4.classpath.AyHmGAxq mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:46.954
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:46.976
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:46.991
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:47.013
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:47.025
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:47.042
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:47.056
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:47.069
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:47.084
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:47.097
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:47.111
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:47.130
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:47.142
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:47.154
+!MESSAGE buffering callback sts4.classpath.CWkWwjFP mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:47.167
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:47.182
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 18:37:47.197
+!MESSAGE exists = true open = true => deleted = false
+!SESSION 2021-03-26 19:07:09.503 -----------------------------------------------
+eclipse.buildId=4.9.0.202012132054
+java.version=15.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.core.resources 2 10035 2021-03-26 19:08:41.192
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jface 2 0 2021-03-26 19:09:11.853
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-03-26 19:09:11.853
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@346690d6,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2831c178,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 19:11:04.989
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 19:11:05.035
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@6c00f72a[org.springframework.tooling.boot.ls:1.24.0.202012131915(id=578)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 19:11:05.334
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 19:11:06.169
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-03-26 19:11:24.521
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\maxim'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 19:12:32.157
+!MESSAGE Boot LS startup time from start to initialized: 86701ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 19:12:33.134
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.IzkQZJfpisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 19:12:33.217
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 19:12:33.233
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 19:12:33.248
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 19:12:33.262
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 19:12:33.276
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.IzkQZJfp => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 19:12:33.304
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 19:12:33.328
+!MESSAGE buffering callback sts4.classpath.IzkQZJfp mobile-app-ws false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 19:12:33.343
+!MESSAGE executing callback sts4.classpath.IzkQZJfp 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-26 19:12:34.040
+!MESSAGE executing callback sts4.classpath.IzkQZJfp SUCCESS [done]
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-03-26 19:14:04.969
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2086)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-03-26 19:14:18.199
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1950)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2085)
+	at org.eclipse.lsp4e.jdt.LSJavaCompletionProposalComputer.asJavaProposals(LSJavaCompletionProposalComputer.java:91)
+	at org.eclipse.lsp4e.jdt.LSJavaCompletionProposalComputer.computeCompletionProposals(LSJavaCompletionProposalComputer.java:59)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalComputerDescriptor.computeCompletionProposals(CompletionProposalComputerDescriptor.java:348)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalCategory.computeCompletionProposals(CompletionProposalCategory.java:340)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.collectProposals(ContentAssistProcessor.java:333)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.computeCompletionProposals(ContentAssistProcessor.java:289)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$10(AsyncCompletionProposalPopup.java:352)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$9(AsyncCompletionProposalPopup.java:351)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+
+!ENTRY org.eclipse.ui 2 2 2021-03-26 19:18:38.636
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
